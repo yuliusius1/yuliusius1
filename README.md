@@ -1,16 +1,6 @@
 ## Hey Everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yulius](https://www.linkedin.com/in/natyulius/). Welcome to my Github Repository
-
-<a href="https://www.linkedin.com/in/natyulius/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:yiyus49@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https:/instagram.com/natyulius">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
+<br>
+<br>
 
 > ### About Me 🚀
 > 🔭 I’m undergraduated Student of Informatics Engineering at Satya Wacana Christian University </br>
