@@ -14,7 +14,7 @@
 > ### Motivation 
 > Keep your Bangkit Spirit
 
-![Yulius's github stats](https://github-readme-stats.vercel.app/api?username=yuliusius1&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Yulius's github stats](https://github-readme-stats.vercel.app/api?username=yuliusius1&show_icons=true&hide_border=true)
 ![Yulius's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuliusius1&layout=compact&langs_count=8&hide_border=true)
 <br />
 
