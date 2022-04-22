@@ -18,5 +18,6 @@
 ![Yulius's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuliusius1&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=yuliusius1&theme=react-dark&hide_border=true&area=true)
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yuliusius1.yuliusius1)
