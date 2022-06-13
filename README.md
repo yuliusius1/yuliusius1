@@ -44,6 +44,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/vans-id/tr-nft-marketplace-pam/pull/12) in [vans-id/tr-nft-marketplace-pam](https://github.com/vans-id/tr-nft-marketplace-pam)
+2. 💪 Opened PR [#12](https://github.com/vans-id/tr-nft-marketplace-pam/pull/12) in [vans-id/tr-nft-marketplace-pam](https://github.com/vans-id/tr-nft-marketplace-pam)
+3. 🎉 Merged PR [#11](https://github.com/vans-id/tr-nft-marketplace-pam/pull/11) in [vans-id/tr-nft-marketplace-pam](https://github.com/vans-id/tr-nft-marketplace-pam)
+4. 💪 Opened PR [#11](https://github.com/vans-id/tr-nft-marketplace-pam/pull/11) in [vans-id/tr-nft-marketplace-pam](https://github.com/vans-id/tr-nft-marketplace-pam)
+5. 🎉 Merged PR [#10](https://github.com/vans-id/tr-nft-marketplace-pam/pull/10) in [vans-id/tr-nft-marketplace-pam](https://github.com/vans-id/tr-nft-marketplace-pam)
 <!--END_SECTION:activity-->
 
 <details>
