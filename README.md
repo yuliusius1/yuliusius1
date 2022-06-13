@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=F74949&font=poppins&center=true&vCenter=true&multiline=true&lines=Hi 👋 I'm Yulius"> 
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=F74949&font=poppins&center=true&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B+I'm+Yulius"> 
 </h1>
 
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
