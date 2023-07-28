@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=32&color=F74949&font=poppins&center=true&vCenter=true&multiline=true&lines=Hi+%F0%9F%91%8B+I'm+Yulius"> 
 </h1>
 
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
+<h3 align="center">A passionate application developer from Indonesia</h3>
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yuliusius1.yuliusius1)
@@ -80,10 +80,11 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuliusius1&" alt="yuliusius1" /></p>
 </details>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=yuliusius1&theme=react-dark&hide_border=true&area=true" />
+[![Yulius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuliusius1&bg_color=000000&color=d9d9d9&line=5bf565&point=a082b0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/natyulius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natyulius" height="30" width="40" /></a>
 <a href="https://instagram.com/natyulius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natyulius" height="30" width="40" /></a>
+<a href="https://master--yuliusius.netlify.app" target="blank"><img align="center" src="https://github.com/moneesh2011/browser-icons/blob/master/icons/32/default.png" alt="natyulius" height="30" width="40" /></a>
 </p>
