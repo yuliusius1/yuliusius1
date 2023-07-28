@@ -23,14 +23,23 @@
 - **Dicoding Academy - [Memulai Pemrograman Dengan C](https://www.dicoding.com/certificates/07Z6L22YMPQR)**
 - **Dicoding Academy - [Memulai Pemrograman Dengan Java](https://www.dicoding.com/certificates/KEXL3WM9MPG2)**
 - **Dicoding Academy - [Memulai Pemrograman Dengan Kotlin](https://www.dicoding.com/certificates/53XEWR4RVXRN)**
-- **Dicoding Academy - [Memulai Dasar Pengembangan Untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/53XEW5D2RXRN)**
+- **Dicoding Academy - [Memulai Pemrograman Dengan Python](https://www.dicoding.com/certificates/MEPJV3WDQP3V)**
 - **Dicoding Academy - [Memulai Pemrograman Dengan Dart](https://www.dicoding.com/certificates/GRX5L9N73P0M)**
 - **Dicoding Academy - [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/07Z65E38WXQR)**
+- **Dicoding Academy - [Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/07Z6G879RXQR)**
+- **Dicoding Academy - [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXYOD251PVM)**
 - **Dicoding Academy - [Belajar Dasar Git Dengan Github](https://www.dicoding.com/certificates/JMZV25N5QZN9)**
+- **Dicoding Academy - [Belajar Dasar UX Design](https://www.dicoding.com/certificates/MRZMDGE2LZYQ)**
+- **Dicoding Academy - [Memulai Dasar Pengembangan Untuk Menjadi Pengembang Software](https://www.dicoding.com/certificates/53XEW5D2RXRN)**
+- **Dicoding Academy - [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/JLX1D1OL6Z72)**
 - **Dicoding Academy - [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/6RPN8QMQQZ2M)**
 - **Dicoding Academy - [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/certificates/2VX328YWJPYQ)**
 - **Dicoding Academy - [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/certificates/JLX1G1E7GZ72)**
-- **Dicoding Academy - [Belajar Dasar UX Design](https://www.dicoding.com/certificates/MRZMDGE2LZYQ)**
+- **Dicoding Academy - [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/ERZR07YK2XYV)**
+- **Dicoding Academy - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/2VX3YV4DJPYQ)**
+- **Dicoding Academy - [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/certificates/ERZRG4GROPYV)**
+- **Bangkit Academy 2022 - [Certificate of Completion](https://drive.google.com/file/d/1vKVZzPe8vp-ysMGF2zPtUJIUaPVhC-bB/view?usp=drive_link)**
+- **Google Certified- [Associate Android Developer](https://www.credential.net/54601f97-cb8f-4c8d-9a13-a7246973344d?key=6ed6cae11216f46e8a2349cc0413e43865b4d98e05db17b9c67a41d8f81a1f6a)**
 
 ### Some Wonderful Repositories
 
