@@ -9,8 +9,8 @@
 
 ### About Me 🚀
 
-- 🔭 I’m undergraduated Student of Informatics Engineering at Satya Wacana Christian University </br>
-- 🌱 I joined Bangkit 2022 as Mobile Development (MD) Student. </br>
+- 🔭 I’m an undergraduate student of Informatics Engineering at Satya Wacana Christian University </br>
+- 🌱 I Graduated with Distinction at Bangkit 2022 as Mobile Development (MD) Student  </br>
 - 👨‍💻 I am passionate about Web Dev and Mobile Dev. I enjoy learning new things. </br>
 
 <h3>Languages and Tools</h3>
